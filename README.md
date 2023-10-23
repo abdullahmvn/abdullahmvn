@@ -10,4 +10,4 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mamun167359@gmail.com)](mailto:mamun167359@gmail.com)
 - ⚡ Fun fact: I like traveling!
 
-![](https://github.com/abdullahmvn/github-stats/blob/master/generated/overview.svg)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmvn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mamun's Github Stats">
